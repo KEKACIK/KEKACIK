@@ -8,6 +8,7 @@
 - Flask
 # Bot Frameworks
 - Aiogram 2/3
+- Pyrogram
 # Other tools
 - JavaScrypt, HTML, CSS
 - PostgreSQL, MySQL, SQLite, Redis
