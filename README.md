@@ -12,5 +12,6 @@
 - JavaScrypt, HTML, CSS
 - PostgreSQL, MySQL, SQLite, Redis
 - SQLAlchemy with Asyncpg
+- Peewee
 - Docker
 - Git
