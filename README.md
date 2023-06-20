@@ -2,15 +2,17 @@
 **I'm Python backend developer from Russia. I specialize in the development of telegram bots and various API services**
 # Languages
 - Python
+- JavaScript
 # Web Frameworks
 - FastApi
 - Django
 - Flask
-# Bot Frameworks
+# Telegram Frameworks
 - Aiogram 2/3
 - Pyrogram
+- Telethon
 # Other tools
-- JavaScrypt, HTML, CSS
+- HTML, CSS
 - PostgreSQL, MySQL, SQLite, Redis
 - SQLAlchemy with Asyncpg
 - Peewee
