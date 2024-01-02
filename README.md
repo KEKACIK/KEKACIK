@@ -16,5 +16,5 @@
 - PostgreSQL, MySQL, SQLite, Redis
 - SQLAlchemy with Asyncpg
 - Peewee
-- Docker
+- Docker (docker compose)
 - Git
