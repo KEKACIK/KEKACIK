@@ -14,7 +14,6 @@
 # Other tools
 - HTML, CSS
 - PostgreSQL, MySQL, SQLite, Redis
-- SQLAlchemy with Asyncpg
-- Peewee
+- SQLAlchemy with Asyncpg, Peewee
 - Docker (docker compose)
-- Git
+- Git (GitHub, GitFlic)
