@@ -13,6 +13,7 @@
 - Telethon
 # Other tools
 - HTML, CSS
+- Celery
 - PostgreSQL, MySQL, SQLite, Redis
 - SQLAlchemy with Asyncpg, Peewee
 - Docker (docker compose)
