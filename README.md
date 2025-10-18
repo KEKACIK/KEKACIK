@@ -1,20 +1,14 @@
 ## Hi there 👋, my name is Arthur!
-**I'm Python backend developer from Russia. I specialize in the development of telegram bots and various API services**
+**I'm backend developer from Russia. I specialize in the development of telegram bots and various API services**
 # Languages
-- Python
-- JavaScript
-# Web Frameworks
-- FastApi
-- Django
-- Flask
-# Telegram Frameworks
-- Aiogram 2/3
-- Pyrogram
-- Telethon
+- Python (FastAPI, Aiogram 2/3, Telethon, SQLAlchemy, peewee)
+- Go
+# Databases
+- PostgreSQL
+- MySQL
+- SQLite
+- Redis
 # Other tools
-- HTML, CSS
-- Celery
-- PostgreSQL, MySQL, SQLite, Redis
-- SQLAlchemy with Asyncpg, Peewee
+- HTML, CSS, JS
 - Docker (docker compose)
 - Git (GitHub, GitFlic)
