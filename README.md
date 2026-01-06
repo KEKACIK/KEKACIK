@@ -1,14 +1,15 @@
 ## Hi there 👋, my name is Arthur!
-**I'm backend developer from Russia. I specialize in the development of telegram bots and various API services**
+**I'm a backend developer from Russia. I recently switched from Python to Golang.**
 # Languages
-- Python (FastAPI, Aiogram 2/3, Telethon, SQLAlchemy, peewee)
 - Go (gorm, gin)
+- Python (FastAPI, Aiogram 2/3, Telethon, SQLAlchemy, peewee)
 # Databases
 - PostgreSQL
 - MySQL
 - SQLite
 - Redis
 # Other tools
+- SQL
 - HTML, CSS, JS
-- Docker (docker compose)
+- Docker (Docker compose)
 - Git (GitHub, GitFlic)
